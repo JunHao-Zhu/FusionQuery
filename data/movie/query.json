@@ -1,0 +1,3979 @@
+[
+	{
+		"questionId": 0,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "100 Bloody Acres",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Cameron Cairnes",
+			"Colin Cairnes"
+		]
+	},
+	{
+		"questionId": 1,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "11 Blocks",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Matthew Bennett",
+			"Sasha Moric"
+		]
+	},
+	{
+		"questionId": 2,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "1920 London",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"tinu Suresh Desai"
+		]
+	},
+	{
+		"questionId": 3,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "24/7 in Love",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"John D. Lazatin",
+			"Mae Cruz-Alviar",
+			"Frasco Santos Mortiz",
+			"Dado Lumibao"
+		]
+	},
+	{
+		"questionId": 4,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Flying Jatt",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Remo"
+		]
+	},
+	{
+		"questionId": 5,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Garfield Christmas Special",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"George Singer",
+			"Phil Roman"
+		]
+	},
+	{
+		"questionId": 6,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Hologram for the King",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Tom Tykwer"
+		]
+	},
+	{
+		"questionId": 7,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Luz do Tom",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Nelson Pereira dos Santos"
+		]
+	},
+	{
+		"questionId": 8,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Monster Calls",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Juan Antonio Bayona"
+		]
+	},
+	{
+		"questionId": 9,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Murder in the Park",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Christopher S. Rech",
+			"Brandon Kimber"
+		]
+	},
+	{
+		"questionId": 10,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Night Full of Rain",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Lina Wertmüller"
+		]
+	},
+	{
+		"questionId": 11,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Night of Horror Volume 1",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Baker Bossi",
+			"Carmen Falk",
+			"Colla Nicholas",
+			"Daniel Daperis",
+			"Evan Green Randall",
+			"Goodrich Matthew",
+			"Har Justin"
+		]
+	},
+	{
+		"questionId": 12,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Stork's Journey",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Toby Genkel",
+			"Reza Memari"
+		]
+	},
+	{
+		"questionId": 13,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Summer's Tale",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Eric Rohmer"
+		]
+	},
+	{
+		"questionId": 14,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Warrior's Heart",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"F.Sears Michael"
+		]
+	},
+	{
+		"questionId": 15,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Abbey of Thelema",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"J. Grimm"
+		]
+	},
+	{
+		"questionId": 16,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Agent Red",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Damian Lee",
+			"Jim Wynorski"
+		]
+	},
+	{
+		"questionId": 17,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Airplane!",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jim Abrahams",
+			"David Zucker",
+			"Jerry Zucker"
+		]
+	},
+	{
+		"questionId": 18,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "All the Rivers Run",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"George Miller",
+			"Pino Amenta"
+		]
+	},
+	{
+		"questionId": 19,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Almanac of Fall",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Béla Tarr"
+		]
+	},
+	{
+		"questionId": 20,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Almost Home",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Tom Whitus",
+			"Bella Mancuso",
+			"John Lina",
+			"Erica House"
+		]
+	},
+	{
+		"questionId": 21,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Altar",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Matthew Sconce"
+		]
+	},
+	{
+		"questionId": 22,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Amazing Grace: Jeff Buckley",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Nyla Bialek Adams",
+			"Laurie Trombley"
+		]
+	},
+	{
+		"questionId": 23,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Animal Crackers",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Tony Bancroft",
+			"Scott Christian Sava"
+		]
+	},
+	{
+		"questionId": 24,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Ariel",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Aki Kaurismäki"
+		]
+	},
+	{
+		"questionId": 25,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "At the Edge of the World",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Dan Stone",
+			"Gambuti Jr. Patrick"
+		]
+	},
+	{
+		"questionId": 26,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Aunt Rose",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"James Tucker"
+		]
+	},
+	{
+		"questionId": 27,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Aya of Yop City",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Marguerite Abouet",
+			"Clement Oubrerie"
+		]
+	},
+	{
+		"questionId": 28,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Bambi",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Algar James",
+			"Armstrong Samuel",
+			"Bill Roberts",
+			"David Hand",
+			"Graham Heid",
+			"Norman Wright",
+			"Paul Satterfield"
+		]
+	},
+	{
+		"questionId": 29,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Bandidas",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Joachim Rnning",
+			"Espen Sandberg"
+		]
+	},
+	{
+		"questionId": 30,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Bannock",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Bennett Michael Weisman"
+		]
+	},
+	{
+		"questionId": 31,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Barracuda",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Philippe Haïm"
+		]
+	},
+	{
+		"questionId": 32,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Beautiful Accident",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Ding Ho Wi"
+		]
+	},
+	{
+		"questionId": 33,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Beavis and Butt-Head Do America",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Brian Mulroney",
+			"Judge Mike",
+			"Kaplan Yvette",
+			"Mike Seve De"
+		]
+	},
+	{
+		"questionId": 34,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Beyond Erotica",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"José María Forqué"
+		]
+	},
+	{
+		"questionId": 35,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Blinky Bill the Movie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Alex Weight",
+			"Alexs Stadermann",
+			"Cleary Noel",
+			"Deane Taylor"
+		]
+	},
+	{
+		"questionId": 36,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Blood on His Sword",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"André Hunebelle"
+		]
+	},
+	{
+		"questionId": 37,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Blue Is the Warmest Color",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Abdellatif Kechiche"
+		]
+	},
+	{
+		"questionId": 38,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Born Free",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Hill James",
+			"Mcgowan Tom"
+		]
+	},
+	{
+		"questionId": 39,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Boys Life 4: Four Play",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Alan Brown",
+			"Brian Sloan",
+			"Eric Mueller",
+			"J.Bartell Phillip"
+		]
+	},
+	{
+		"questionId": 40,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Buster and Billie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Daniel Petrie"
+		]
+	},
+	{
+		"questionId": 41,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "But Always",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Snow Zou"
+		]
+	},
+	{
+		"questionId": 42,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Cabin in the Sky",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Berkeley Bus",
+			"Minnelli Vincente"
+		]
+	},
+	{
+		"questionId": 43,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Captain Kronos: Vampire Hunter",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Brian Clemens"
+		]
+	},
+	{
+		"questionId": 44,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Cars",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Joe Ranft",
+			"John Lasseter"
+		]
+	},
+	{
+		"questionId": 45,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Castaway on the Moon",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Hae-jun Lee"
+		]
+	},
+	{
+		"questionId": 46,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Castle of Blood",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Antonio Margheriti",
+			"Corbucci Sergio"
+		]
+	},
+	{
+		"questionId": 47,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Cheeta-eh: Ganda lalake?",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Tony Cruz",
+			"Arthur Nicdao"
+		]
+	},
+	{
+		"questionId": 48,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Closing Escrow",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Armen Kaprelian",
+			"Kent Llewellyn"
+		]
+	},
+	{
+		"questionId": 49,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Cowboy Bebop: The Movie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Hiroyuki Okiura",
+			"Okamura Tensai",
+			"Shinichir Watanabe",
+			"Takei Yoshiyuki"
+		]
+	},
+	{
+		"questionId": 50,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Crazy Eights",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jimi Jones"
+		]
+	},
+	{
+		"questionId": 51,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Crystal Fairy",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Sebastian Silva"
+		]
+	},
+	{
+		"questionId": 52,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Crystalstone",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Antonio Peláez"
+		]
+	},
+	{
+		"questionId": 53,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Dames",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Berkeley Bus",
+			"Enright Ray"
+		]
+	},
+	{
+		"questionId": 54,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Deadgirl",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Marcel Sarmiento",
+			"Gadi Harel"
+		]
+	},
+	{
+		"questionId": 55,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Def By Temptation",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"James Bond III"
+		]
+	},
+	{
+		"questionId": 56,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Delhi Belly",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Abhinay Deo",
+			"Akshat Verma"
+		]
+	},
+	{
+		"questionId": 57,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Doramundo",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"João Batista de Andrade"
+		]
+	},
+	{
+		"questionId": 58,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Dr. Seuss' The Lorax",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Chris Renaud",
+			"Kyle Balda"
+		]
+	},
+	{
+		"questionId": 59,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Dumb and Dumber",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Bob Farrelly",
+			"Farrelly Peter"
+		]
+	},
+	{
+		"questionId": 60,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Dus Kahaniyaan",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Sanjay Gupta",
+			"Apoorva Lakhia",
+			"Meghna Gulzar",
+			"Rohit Roy",
+			"Hansal Mehta",
+			"Jasmeet Dhodhi"
+		]
+	},
+	{
+		"questionId": 61,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Earth",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Julio Medem"
+		]
+	},
+	{
+		"questionId": 62,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Elective Affinities",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Paolo Taviani",
+			"Vittorio Taviani"
+		]
+	},
+	{
+		"questionId": 63,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Felix the Cat: The Movie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Tibor Hernádi"
+		]
+	},
+	{
+		"questionId": 64,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Films Confiscated from a French Brothel",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Salem Kapsaski",
+			"Drew Phillips",
+			"Bob Moricz",
+			"J.P. Schmidt",
+			"Gabriella Kapsaski",
+			"Craig Podmore"
+		]
+	},
+	{
+		"questionId": 65,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Finding Dory",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andrew Stanton",
+			"Angus Maclane"
+		]
+	},
+	{
+		"questionId": 66,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Fiorile",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Paolo Taviani",
+			"Vittorio Taviani"
+		]
+	},
+	{
+		"questionId": 67,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Fit to Be Untied",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Petraglia Sandro",
+			"Bellocchio Marco",
+			"Rulli Stefano",
+			"Agosti Silvano"
+		]
+	},
+	{
+		"questionId": 68,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Food Stamped",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Shira Potash",
+			"Yoav Potash"
+		]
+	},
+	{
+		"questionId": 69,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Fuera de la ley",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"León Klimovsky"
+		]
+	},
+	{
+		"questionId": 70,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Games of Love and Chance",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Abdellatif Kechiche"
+		]
+	},
+	{
+		"questionId": 71,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Garota Dourada",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Antonio Calmon"
+		]
+	},
+	{
+		"questionId": 72,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "General Suvorov",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Mikhail Doller",
+			"Vsevolod Pudovkin"
+		]
+	},
+	{
+		"questionId": 73,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Gervaise",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"René Clément"
+		]
+	},
+	{
+		"questionId": 74,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Girlfriend Boyfriend",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Ya-che Yang"
+		]
+	},
+	{
+		"questionId": 75,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Gone With the Wind",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Cukor George",
+			"Fleming Victor",
+			"Sam Wood"
+		]
+	},
+	{
+		"questionId": 76,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Goodbye World",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Denis Hennelly"
+		]
+	},
+	{
+		"questionId": 77,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Grave Encounters",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Brothers The Vicious",
+			"Colin Minihan",
+			"Ortiz Stuart"
+		]
+	},
+	{
+		"questionId": 78,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Grindhouse",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Edgar Wright",
+			"Eli Roth",
+			"Quentin Tarantino",
+			"Rob Zombie",
+			"Robert Rodriguez"
+		]
+	},
+	{
+		"questionId": 79,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Heidi",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Delbert Mann"
+		]
+	},
+	{
+		"questionId": 80,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Helicopter Mom",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Breziner Salom"
+		]
+	},
+	{
+		"questionId": 81,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Hello, Late Homecomers",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"John Woo",
+			"Karl Maka",
+			"Louis Sit"
+		]
+	},
+	{
+		"questionId": 82,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Holidays",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Adam Egypt Mortimer",
+			"Anthony Burns Scott",
+			"Ellen Reid",
+			"Gary Shore",
+			"Kevin Kolsch",
+			"Kevin S",
+			"Mccarthy Nicholas"
+		]
+	},
+	{
+		"questionId": 83,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Humans",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jacques-Olivier Molon",
+			"Pierre-Olivier Thevenin"
+		]
+	},
+	{
+		"questionId": 84,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "I Am the Pretty Thing That Lives in the House",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Osgood Perkins"
+		]
+	},
+	{
+		"questionId": 85,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "I, Madman",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Tibor Takács"
+		]
+	},
+	{
+		"questionId": 86,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "ILL Manors",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Ben Drew"
+		]
+	},
+	{
+		"questionId": 87,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Inside",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Alexandre Bustillo",
+			"Julien Maury"
+		]
+	},
+	{
+		"questionId": 88,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Inside Out",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Carmen Del Ronnie",
+			"Docter Pete"
+		]
+	},
+	{
+		"questionId": 89,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Insomnia",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Erik Skjoldbjærg"
+		]
+	},
+	{
+		"questionId": 90,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Jeanne and the Perfect Guy",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Olivier Ducastel",
+			"Jacques Martineau"
+		]
+	},
+	{
+		"questionId": 91,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Jeff Who Lives at Home",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Duplass Jay",
+			"Duplass Mark"
+		]
+	},
+	{
+		"questionId": 92,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "John Wick",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Chad Stahelski",
+			"David Leitch"
+		]
+	},
+	{
+		"questionId": 93,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Journey of a Red Fridge",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Lucian Muntean",
+			"Natasa Muntean"
+		]
+	},
+	{
+		"questionId": 94,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Julieum 4 Perum",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Satheesh.R.V"
+		]
+	},
+	{
+		"questionId": 95,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Jupiter Ascending",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andy Wachowski",
+			"Lana Wachowski"
+		]
+	},
+	{
+		"questionId": 96,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Just Heroes",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"John Woo",
+			"Wu Ma"
+		]
+	},
+	{
+		"questionId": 97,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Kara Simsek",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Çetin Inanç"
+		]
+	},
+	{
+		"questionId": 98,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Kevin Hart: Laugh at My Pain",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Leslie Small",
+			"Story Tim"
+		]
+	},
+	{
+		"questionId": 99,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "King of the Belgians",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Peter Brosens",
+			"Jessica Woodworth"
+		]
+	},
+	{
+		"questionId": 100,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Kite Adrift",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Diego Ayala",
+			"Anibal Jofré"
+		]
+	},
+	{
+		"questionId": 101,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "LA 92",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Simon Chinn",
+			"Dan Lindsay",
+			"TJ Martin"
+		]
+	},
+	{
+		"questionId": 102,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "La inocente",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Rogelio González",
+			"Lorena Velázquez"
+		]
+	},
+	{
+		"questionId": 103,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "La Malquerida",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Emilio Fernández"
+		]
+	},
+	{
+		"questionId": 104,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "La traque des Nazis",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Isabelle Clarke",
+			"Daniel Costelle"
+		]
+	},
+	{
+		"questionId": 105,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Laamb",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Kristoffer Hegnsvad",
+			"Peter Alsted"
+		]
+	},
+	{
+		"questionId": 106,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Lafayette",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jean Dréville"
+		]
+	},
+	{
+		"questionId": 107,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Laredoans Speak: Voices on Immigration",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Victor A. Martinez",
+			"Ryan Schafer"
+		]
+	},
+	{
+		"questionId": 108,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "League of Gods",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Hui Koan",
+			"Vernie Yeung"
+		]
+	},
+	{
+		"questionId": 109,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Leftovers",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Seth Hancock",
+			"Seth Hancock",
+			"Shane Bernardo",
+			"Beverly Berry"
+		]
+	},
+	{
+		"questionId": 110,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Look for a Star",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andrew Keung Lau Wai"
+		]
+	},
+	{
+		"questionId": 111,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Mad Dog Morgan",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Philippe Mora"
+		]
+	},
+	{
+		"questionId": 112,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Madame Claude 2",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Francois Mimet"
+		]
+	},
+	{
+		"questionId": 113,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Mahogany",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Berry Gordy"
+		]
+	},
+	{
+		"questionId": 114,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Man in Red Bandana",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Matthew J.Weiss"
+		]
+	},
+	{
+		"questionId": 115,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Man Underground",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Michael Borowiec",
+			"Sam Marine"
+		]
+	},
+	{
+		"questionId": 116,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "March on the River Drina",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Žika Mitrovi?"
+		]
+	},
+	{
+		"questionId": 117,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Miss Hokusai",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Sheh Stephanie",
+			"Michael Sinterniklaas",
+			"Hara Keiichi"
+		]
+	},
+	{
+		"questionId": 118,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Mister Roberts",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Ford John",
+			"Joshua Logan",
+			"Leroy Mervyn"
+		]
+	},
+	{
+		"questionId": 119,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Moon Over Broadway",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Chris Hegedus",
+			"D.A. Pennebaker"
+		]
+	},
+	{
+		"questionId": 120,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Mr. Brooks",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Bruce A. Evans"
+		]
+	},
+	{
+		"questionId": 121,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Mr. Fraud",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"B. Unnikrishnan",
+			"Mohanlal",
+			"Dev Gill",
+			"Vijay Babu"
+		]
+	},
+	{
+		"questionId": 122,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "My Little Pony: Equestria Girls",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Benvenuti Noelle",
+			"Jayson Thiessen"
+		]
+	},
+	{
+		"questionId": 123,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Nick and Chai",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Cha Escala",
+			"Wena Sanchez"
+		]
+	},
+	{
+		"questionId": 124,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Night Swim",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Rod Blackhurst",
+			"Bryce James McGuire"
+		]
+	},
+	{
+		"questionId": 125,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Northern Lights",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"John Hanson",
+			"Rob Nilsson"
+		]
+	},
+	{
+		"questionId": 126,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Now They Call Him Sacramento",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Alfonso Balcázar"
+		]
+	},
+	{
+		"questionId": 127,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Oh, Hello on Broadway",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"John Michael Warren"
+		]
+	},
+	{
+		"questionId": 128,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "One Night Surprise",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jin Yiming"
+		]
+	},
+	{
+		"questionId": 129,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Onnellinen ministeri",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Toivo Särkkä"
+		]
+	},
+	{
+		"questionId": 130,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Our Hospitality",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Buster Keaton",
+			"G.Blystone John"
+		]
+	},
+	{
+		"questionId": 131,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Out of the Ashes",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Tim Albone",
+			"Lucy Martens"
+		]
+	},
+	{
+		"questionId": 132,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Out of the Blue",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"\\tJames Fox",
+			"Tim Coleman",
+			"Boris Zubov"
+		]
+	},
+	{
+		"questionId": 133,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Outlaw Women",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Sam Newfield"
+		]
+	},
+	{
+		"questionId": 134,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Peepli Live",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Anusha Rizvi",
+			"Farooqui Mahmood"
+		]
+	},
+	{
+		"questionId": 135,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Placido",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Luis G. Berlanga"
+		]
+	},
+	{
+		"questionId": 136,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Police Academy 2: Their First Assignment",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jerry Paris"
+		]
+	},
+	{
+		"questionId": 137,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Port Afrique",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Rudolph Maté"
+		]
+	},
+	{
+		"questionId": 138,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Portrait of a Serial Monogamist",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"John Mitchell",
+			"Christina Zeidler"
+		]
+	},
+	{
+		"questionId": 139,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Rachmaninoff",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Antonio de Santos"
+		]
+	},
+	{
+		"questionId": 140,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Ratatouille",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Bird Brad",
+			"Jan Pinkava"
+		]
+	},
+	{
+		"questionId": 141,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Scary Movie 5",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Malcolm D. Lee",
+			"David Zucker"
+		]
+	},
+	{
+		"questionId": 142,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Sci-Fi High: The Movie Musical",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Dan Bellusci"
+		]
+	},
+	{
+		"questionId": 143,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Second Origin",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Bigas Luna",
+			"Carles Porta"
+		]
+	},
+	{
+		"questionId": 144,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Sisters in Law",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Florence Ayisi",
+			"Kim Longinotto"
+		]
+	},
+	{
+		"questionId": 145,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Sleepwalk with Me",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Mike Birbiglia",
+			"Seth Barrish"
+		]
+	},
+	{
+		"questionId": 146,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Snowtime!",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Brisson Franois",
+			"Franois Jean Pouliot"
+		]
+	},
+	{
+		"questionId": 147,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Speed Racer",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andy Wachowski",
+			"Lana Wachowski"
+		]
+	},
+	{
+		"questionId": 148,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Spring Bears Love",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Yi Yong"
+		]
+	},
+	{
+		"questionId": 149,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Stage Fright",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jerome Sable"
+		]
+	},
+	{
+		"questionId": 150,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Steamboat Willie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Disney Walt",
+			"Iwerks Ub"
+		]
+	},
+	{
+		"questionId": 151,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Stuck on You!",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Michael Herz",
+			"Lloyd Kaufman"
+		]
+	},
+	{
+		"questionId": 152,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Take Me Naked",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Findlay Michael",
+			"Findlay Roberta"
+		]
+	},
+	{
+		"questionId": 153,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Tales of Halloween",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Adam Gierasch",
+			"Andrew Kasch",
+			"Axelle Carolyn",
+			"Bousman Darren Lynn",
+			"Lucky Mckee",
+			"Marshall Neil",
+			"Mendez Mike"
+		]
+	},
+	{
+		"questionId": 154,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Taxi for Tobruk",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Denys de la Patellière"
+		]
+	},
+	{
+		"questionId": 155,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Team America: World Police",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Parker Trey"
+		]
+	},
+	{
+		"questionId": 156,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "That's My Boy",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Sean Anders"
+		]
+	},
+	{
+		"questionId": 157,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Avenging Fist",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andrew Keung Lau Wai",
+			"Corey Yuen"
+		]
+	},
+	{
+		"questionId": 158,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Big Lebowski",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Coen Ethan",
+			"Coen Joel"
+		]
+	},
+	{
+		"questionId": 159,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Bloody Exorcism of Coffin Joe",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jose Mojica Marins"
+		]
+	},
+	{
+		"questionId": 160,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Byrd Who Flew Alone: The Triumphs and Tragedy of Gene Clark",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jack Kendall",
+			"Paul Kendall"
+		]
+	},
+	{
+		"questionId": 161,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Cameraman",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Buster Keaton",
+			"Edward Sedgwick"
+		]
+	},
+	{
+		"questionId": 162,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Coca-Cola Case",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Carmen Garcia",
+			"German Gutierrez"
+		]
+	},
+	{
+		"questionId": 163,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Demon Deep in Oklahoma",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Lance R. Marshall"
+		]
+	},
+	{
+		"questionId": 164,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Dudesons Movie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jarno Laasala",
+			"Tuukka Tiensuu"
+		]
+	},
+	{
+		"questionId": 165,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Fast and the Furious",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Rob Cohen",
+			"John Singleton",
+			"Justin Lin",
+			"James Wan",
+			"F. Gary Gray"
+		]
+	},
+	{
+		"questionId": 166,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Girl in the Red Velvet Swing",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Richard Fleischer"
+		]
+	},
+	{
+		"questionId": 167,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The High Sign",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Buster Keaton",
+			"Edward F.Cline"
+		]
+	},
+	{
+		"questionId": 168,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Kid With a Bike",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Jean-Pierre Dardenne",
+			"Luc Dardenne"
+		]
+	},
+	{
+		"questionId": 169,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Lark Farm",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Paolo Taviani",
+			"Vittorio Taviani"
+		]
+	},
+	{
+		"questionId": 170,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "the last broadcast",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Lance Weiler",
+			"Stefan Avalos"
+		]
+	},
+	{
+		"questionId": 171,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Last Circus",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Álex de la Iglesia"
+		]
+	},
+	{
+		"questionId": 172,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Last Days of Pompeii",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Mario Bonnard"
+		]
+	},
+	{
+		"questionId": 173,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The LEGO Ninjago Movie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Charlie Bean",
+			"Paul Fisher",
+			"Bob Logan"
+		]
+	},
+	{
+		"questionId": 174,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Locksmith",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Brad Barnes",
+			"Todd Barnes"
+		]
+	},
+	{
+		"questionId": 175,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Longest Day",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andrew Marton",
+			"Annakin Ken",
+			"Bernhard Wicki",
+			"Darryl F.Zanuck",
+			"Gerd Oswald"
+		]
+	},
+	{
+		"questionId": 176,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Magnet",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Akhenaton",
+			"Kamel Saleh"
+		]
+	},
+	{
+		"questionId": 177,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Man Who Could Work Miracles",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Lothar Mendes",
+			"Korda Zoltan"
+		]
+	},
+	{
+		"questionId": 178,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Many Adventures of Winnie the Pooh",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"John Lounsbery",
+			"Reitherman Wolfgang"
+		]
+	},
+	{
+		"questionId": 179,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Mutilator",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Buddy Cooper",
+			"John Douglass"
+		]
+	},
+	{
+		"questionId": 180,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Orphanage",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Antonio Bayona Juan"
+		]
+	},
+	{
+		"questionId": 181,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Perfect Weapon",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Paar Titus"
+		]
+	},
+	{
+		"questionId": 182,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Road to El Dorado",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Eric Bibo Bergeron",
+			"Don Paul"
+		]
+	},
+	{
+		"questionId": 183,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Scarlet Horseman",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Lewis D. Collins",
+			"Ray Taylor"
+		]
+	},
+	{
+		"questionId": 184,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Second Woman",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Miu-Suet Lai"
+		]
+	},
+	{
+		"questionId": 185,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Secret Lives of Dorks",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Salomé Breziner"
+		]
+	},
+	{
+		"questionId": 186,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The SpongeBob Squarepants Movie",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Hillenburg Stephen",
+			"Mark Osborne"
+		]
+	},
+	{
+		"questionId": 187,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Station Agent",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Mccarthy Thomas"
+		]
+	},
+	{
+		"questionId": 188,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Strange Woman",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Edgar Ulmer"
+		]
+	},
+	{
+		"questionId": 189,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Summer of Sangaile",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Alante Kavaite"
+		]
+	},
+	{
+		"questionId": 190,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Treasure of the Amazon",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"René Cardona Jr."
+		]
+	},
+	{
+		"questionId": 191,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Two-Headed Spy",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"André De Toth"
+		]
+	},
+	{
+		"questionId": 192,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The White Dove",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Frantisek Vlácil"
+		]
+	},
+	{
+		"questionId": 193,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Wizard of Oz",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Cukor George",
+			"Fleming Victor",
+			"King Vidor",
+			"Leroy Mervyn",
+			"Norman Taurog"
+		]
+	},
+	{
+		"questionId": 194,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Yes Men Fix the World",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andy Bichlbaum",
+			"Mike Bonanno",
+			"Engfehr Kurt"
+		]
+	},
+	{
+		"questionId": 195,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Them",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"David Moreau",
+			"Xavier Palud"
+		]
+	},
+	{
+		"questionId": 196,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "This Is Orson Welles",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Clara Kuperberg",
+			"Julia Kuperberg"
+		]
+	},
+	{
+		"questionId": 197,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Thor the Conqueror",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Ricci Tonino"
+		]
+	},
+	{
+		"questionId": 198,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Three Lives",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Kate Millett"
+		]
+	},
+	{
+		"questionId": 199,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Top Cat Begins",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Andrés Couturier"
+		]
+	},
+	{
+		"questionId": 200,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Unborn in the USA: Inside the War on Abortion",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Stephen Fell",
+			"Will Thompson"
+		]
+	},
+	{
+		"questionId": 201,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Undead",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Michael Spierig",
+			"Peter Spierig"
+		]
+	},
+	{
+		"questionId": 202,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Uniformes et grandes manœuvres",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"René Le Hénaff"
+		]
+	},
+	{
+		"questionId": 203,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "VHS",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Adam Wingard",
+			"David Bruckner",
+			"Glenn McQuaid",
+			"Joe Swanberg",
+			"Ti West",
+			"Radio Silence"
+		]
+	},
+	{
+		"questionId": 204,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "VHS: Viral",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Aaron Moorhead",
+			"Benson Justin",
+			"Bishop Gregg",
+			"Lincoln Todd",
+			"Marcel Sarmiento",
+			"Nacho Vigalondo"
+		]
+	},
+	{
+		"questionId": 205,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Walking the Camino: Six Ways to Santiago",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Lydia B.Smith"
+		]
+	},
+	{
+		"questionId": 206,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Wild Life",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Amanda Forbis",
+			"Wendy Tilby"
+		]
+	},
+	{
+		"questionId": 207,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "X: The Unknown",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Joseph Losey",
+			"Leslie Norman"
+		]
+	},
+	{
+		"questionId": 208,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Yessongs",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Peter Neal"
+		]
+	},
+	{
+		"questionId": 209,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "[REC]",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "directors"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"Balaguer Jaume",
+			"Paco Plaza"
+		]
+	}
+]

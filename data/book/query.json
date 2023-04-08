@@ -1,0 +1,1888 @@
+[
+	{
+		"questionId": 0,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Computing Essentials",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"o'leary, timothy j.",
+			"o'leary, linda i."
+		]
+	},
+	{
+		"questionId": 1,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Computer Accounting Essentials Using ePeachtree",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"yacht, carol",
+			"crosson, susan"
+		]
+	},
+	{
+		"questionId": 2,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Fundamentals of Finite Element Analysis",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"hutton, david v."
+		]
+	},
+	{
+		"questionId": 3,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "I-Series: MS Windows XP: Complete",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"haag, stephen",
+			"perry, james t.",
+			"sosinsky, barrie",
+			"estevez, efren"
+		]
+	},
+	{
+		"questionId": 4,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Introduction to the Finite Element Method",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"reddy, j. n."
+		]
+	},
+	{
+		"questionId": 5,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Principles Of Computer Security: Security+ And Beyond",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"conklin, wm. arthur",
+			"white, gregory b.",
+			"cothren, chuck",
+			"williams, dwayne",
+			"davis, roger l."
+		]
+	},
+	{
+		"questionId": 6,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "MCSE Windows Server 2003 Active Directory Infrastructure Study Guide (Exam 70-294) with Windows? Server 2003 180-day trial software",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"suhanovs, dennis"
+		]
+	},
+	{
+		"questionId": 7,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Windows Server 2003 (Hacking Exposed)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"scambray, joel",
+			"mcclure, stuart"
+		]
+	},
+	{
+		"questionId": 8,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Security+ Certification All-in-One Exam Guide",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"white, gregory"
+		]
+	},
+	{
+		"questionId": 9,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Schaum's Outline of Computer Graphics",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"xiang, zhigang",
+			"plastock, roy a."
+		]
+	},
+	{
+		"questionId": 10,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A+ Operating Systems For Technicians",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"meadors, todd",
+			"schmidt, cheryl a."
+		]
+	},
+	{
+		"questionId": 11,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Understanding Your Users : A Practical Guide to User Requirements Methods, Tools, and Techniques",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"courage, catherine",
+			"baxter, kathy"
+		]
+	},
+	{
+		"questionId": 12,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Bluetooth Application Programming with the Java APIs (The Morgan Kaufmann Series in Networking)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"kumar, c bala",
+			"kline, paul j.",
+			"thompson, tim j."
+		]
+	},
+	{
+		"questionId": 13,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Database Modeling With Microsoft Visio for Enterprise Architects",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"halpin, terry",
+			"evans, ken",
+			"hallock, pat",
+			"maclean, bill"
+		]
+	},
+	{
+		"questionId": 14,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Data Mining,",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"han, jiawei",
+			"kamber, micheline"
+		]
+	},
+	{
+		"questionId": 15,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Innovation Happens Elsewhere: Open Source as Business Strategy",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"goldman, ron",
+			"gabriel, richard p."
+		]
+	},
+	{
+		"questionId": 16,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Stochastic Local Search: Foundations &amp; Applications",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"hoos, holger h.",
+			"stutzle, thomas"
+		]
+	},
+	{
+		"questionId": 17,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Policy-Based Network Management",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"strassner, john c."
+		]
+	},
+	{
+		"questionId": 18,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Multicast Sockets: Practical Guide for Programmers (The Practical Guides)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"makofske, david",
+			"almeroth, kevin"
+		]
+	},
+	{
+		"questionId": 19,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Bioinformatics: Managing Scientific Data",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"lacroix, zoe",
+			"critchlow, terence"
+		]
+	},
+	{
+		"questionId": 20,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "IPV6 2/E",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"loshin, pete"
+		]
+	},
+	{
+		"questionId": 21,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Non-Photorealistic Computer Graphics: Modeling, Rendering and Animation",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"strothotte, thomas",
+			"schlechtweg, stefan"
+		]
+	},
+	{
+		"questionId": 22,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Business Process Change: A Manager's Guide to Improving, Redesigning, and Automating Processes (The Morgan Kaufmann Series in Data Management Systems)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"harmon, paul"
+		]
+	},
+	{
+		"questionId": 23,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Managing Reference Data in Enterprise Databases: Binding Corporate Data to the Wider World",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"chisholm, malcolm"
+		]
+	},
+	{
+		"questionId": 24,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Distributed Systems Architecture: A Middleware Approach",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"puder, arno",
+			"romer, kay",
+			"pilhofer, frank"
+		]
+	},
+	{
+		"questionId": 25,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Skew-Tolerant Circuit Design",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"harris, david"
+		]
+	},
+	{
+		"questionId": 26,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Swarm Intelligence",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"kennedy, james",
+			"eberhart, russell c."
+		]
+	},
+	{
+		"questionId": 27,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Integrated Management of Networked Systems",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"hegering, heinz-gerd",
+			"neumair, bernhard",
+			"abeck, sebastian"
+		]
+	},
+	{
+		"questionId": 28,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Database Design for Smarties: Using UML for Data Modeling (The Morgan Kaufmann Series in Data Management Systems)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"muller, robert j."
+		]
+	},
+	{
+		"questionId": 29,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Readings in Information Retrieval (Morgan Kaufmann Series in Multimedia Information and Systems)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"jones, karen sparck",
+			"willett, peter"
+		]
+	},
+	{
+		"questionId": 30,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "WAVELETS FOR COMPUTER GRAPHICS Theory and Applications",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"stollnitz, eric j.",
+			"derose, tony d.",
+			"salesin, david h."
+		]
+	},
+	{
+		"questionId": 31,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Active Database Systems: Triggers and Rules for Advanced Database Processing",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"widom, jennifer",
+			"ceri, stefano"
+		]
+	},
+	{
+		"questionId": 32,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Cache and Memory Hierarchy : A Performance Directed Approach",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"przybylski, steven a."
+		]
+	},
+	{
+		"questionId": 33,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Physical Security For IT",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"erbschloe, michael"
+		]
+	},
+	{
+		"questionId": 34,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Leveraging WMI Scripting: Using Windows Management Instrumentation to Solve Windows Management Problems",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"lissoir, alain"
+		]
+	},
+	{
+		"questionId": 35,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Getting Started With OpenVMS: A Guide for New Users (HP Technologies...",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"duffy, michael d."
+		]
+	},
+	{
+		"questionId": 36,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Computer Systems Performance Evaluation and Prediction",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"fortier, paul j.",
+			"michel, howard e."
+		]
+	},
+	{
+		"questionId": 37,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Digital Visual Fortran Programmer's Guide",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"etzel, michael",
+			"dickinson, karen"
+		]
+	},
+	{
+		"questionId": 38,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Common LISP, Second Edition: The Language (HP Technologies)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"steele, guy l."
+		]
+	},
+	{
+		"questionId": 39,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "MANAGING LEGAL &amp; SECURITY RISK",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"shaw, paul d."
+		]
+	},
+	{
+		"questionId": 40,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Troubleshooting Analog Circuits, First Edition (EDN Series for Design Engineers)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"pease, robert a."
+		]
+	},
+	{
+		"questionId": 41,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Risk Management for Computer Security : Protecting Your Network and Information Assets",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"jones, andy",
+			"ashenden, debi"
+		]
+	},
+	{
+		"questionId": 42,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Information Assurance",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"boyce, joseph g.",
+			"jennings, dan w."
+		]
+	},
+	{
+		"questionId": 43,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Managing Stakeholders in Software Development Projects (The Computer Weekly Professional Series)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"mcmanus, john"
+		]
+	},
+	{
+		"questionId": 44,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Applying Uml: Advanced Application",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"pooley, rob",
+			"wilcox, pauline"
+		]
+	},
+	{
+		"questionId": 45,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Database Access with Visual Basic?NET. 3/e",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"mcmanus, jeffrey p.",
+			"goldstein, jackie"
+		]
+	},
+	{
+		"questionId": 46,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "PARALLEL COMPUTATIONAL FLUID D",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"jenssen, c. b.",
+			"kvamdal, t.",
+			"andersson, h. i.",
+			"Ecer, A.",
+			"Periaux, J.",
+			"Satofuka, N.",
+			"Fox, P."
+		]
+	},
+	{
+		"questionId": 47,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"dowd, mark",
+			"mcdonald, john",
+			"schuh, justin"
+		]
+	},
+	{
+		"questionId": 48,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Software Security Library Boxed Set, First Edition",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"mcgraw, gary",
+			"viega, john",
+			"hoglund, greg"
+		]
+	},
+	{
+		"questionId": 49,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Administrator's Guide to SQL Server 2005",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"woody, buck"
+		]
+	},
+	{
+		"questionId": 50,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Symantec Guide to Home Internet Security (Symantec Press)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"conry-murray, andrew",
+			"weafer, vincent"
+		]
+	},
+	{
+		"questionId": 51,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Secure Coding in C and C++ (SEI Series in Software Engineering)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"seacord, robert c."
+		]
+	},
+	{
+		"questionId": 52,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Languages And Machines: An Introduction To The Theory Of Computer Science",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"sudkamp, thomas a."
+		]
+	},
+	{
+		"questionId": 53,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Prin of Concurrent &amp; Distributed Programming",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"ben-ari, m."
+		]
+	},
+	{
+		"questionId": 54,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Internet Effectively: A Beginner's Guide To The World Wide Web",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"adams, tyrone",
+			"scollard, sharon"
+		]
+	},
+	{
+		"questionId": 55,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Guru's Guide to SQL Server Boxed Set, The",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"henderson, ken"
+		]
+	},
+	{
+		"questionId": 56,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Distributed Systems : Concepts and Design (4th Edition) (Softcover)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"coulouris, george",
+			"dollimore, jean",
+			"kindberg, tim"
+		]
+	},
+	{
+		"questionId": 57,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "VPNs Illustrated: Tunnels, VPNs, and IPsec",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"snader, jon c."
+		]
+	},
+	{
+		"questionId": 58,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Open Source .NET Development: Programming With Nant, Nunit, Ndoc, And More",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"nantz, brian"
+		]
+	},
+	{
+		"questionId": 59,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Aspect-oriented Software Development",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"filman, robert e.",
+			"elrad, tzilla",
+			"clarke, siobhan",
+			"aksit, mehmet"
+		]
+	},
+	{
+		"questionId": 60,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Designing Web Services with the J2EE(TM) 1.4 Platform: JAX-RPC, SOAP, and XML Technologies (The Java Series)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"singh, inderjeet",
+			"brydon, sean",
+			"murray, greg",
+			"ramachandran, vijay",
+			"violleau, thierry",
+			"stearns, beth"
+		]
+	},
+	{
+		"questionId": 61,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Oracle 9i Programming: A Primer",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"sunderraman, rajshekhar"
+		]
+	},
+	{
+		"questionId": 62,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "User Interface Design: A Software Engineering Perspective",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"lauesen, soren"
+		]
+	},
+	{
+		"questionId": 63,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "XQuery: The XML Query Language",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"brundage, michael"
+		]
+	},
+	{
+		"questionId": 64,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Effective XML: 50 Specific Ways to Improve Your XML",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"harold, elliotte rusty"
+		]
+	},
+	{
+		"questionId": 65,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "INSIDE WINDOWS STORAGE. Server Storage Technologies for Windows 2000, Windows Server 2003, and Beyond",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"naik, dilip c."
+		]
+	},
+	{
+		"questionId": 66,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"rozanski, nick",
+			"woods, eoin"
+		]
+	},
+	{
+		"questionId": 67,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The C++ Programming Language (3rd Edition)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"stroustrup, bjarne"
+		]
+	},
+	{
+		"questionId": 68,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "UNIX for the Impatient (2nd Edition)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"abrahams, paul w.",
+			"larson, bruce r."
+		]
+	},
+	{
+		"questionId": 69,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "TCP/IP Illustrated Volumes 1-3 Boxed Set",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"stevens, w. richard",
+			"wright, gary r."
+		]
+	},
+	{
+		"questionId": 70,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Software Engineering and Computer Games",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"rucker, rudy"
+		]
+	},
+	{
+		"questionId": 71,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "XML Topic Maps: Creating and Using Topic Maps for the Web",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"park, jack",
+			"hunting, sam"
+		]
+	},
+	{
+		"questionId": 72,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Building Applications and Components with Visual Basic .NET",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"pattison, ted",
+			"hummel, joe"
+		]
+	},
+	{
+		"questionId": 73,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Performance Solutions: A Practical Guide to Creating Responsive, Scalable Software (1st Edition)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"smith, connie u.",
+			"williams, lloyd g."
+		]
+	},
+	{
+		"questionId": 74,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Practical Oracle 8i: Building Efficient Databases",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"lewis, jonathan"
+		]
+	},
+	{
+		"questionId": 75,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Human-Computer Interaction in the New Millennium",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"carroll, john m."
+		]
+	},
+	{
+		"questionId": 76,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The ACE Programmer's Guide: Practical Design Patterns for Network and Systems Programming",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"huston, stephen d.",
+			"johnson, james ce",
+			"syyid, umar"
+		]
+	},
+	{
+		"questionId": 77,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Win32 Programming (Addison-Wesley Advanced Windows Series)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"rector, brent e.",
+			"newcomer, joseph m."
+		]
+	},
+	{
+		"questionId": 78,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "MFC Programming (Addison-Wesley Advanced Windows Series)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"feuer, alan r."
+		]
+	},
+	{
+		"questionId": 79,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Advanced Use Case Modeling : Software Systems (Paperback)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"armour, frank",
+			"miller, granville"
+		]
+	},
+	{
+		"questionId": 80,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "On to C++",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"winston, patrick henry"
+		]
+	},
+	{
+		"questionId": 81,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Design and Evolution of C++, The",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"stroustrup, bjarne"
+		]
+	},
+	{
+		"questionId": 82,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "The Student's Guide to Doing Research on the Internet",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"campbell, dave",
+			"campbell, mary"
+		]
+	},
+	{
+		"questionId": 83,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "An Introduction to the Analysis of Algorithms (Paperback)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"sedgewick, robert",
+			"flajolet, philippe"
+		]
+	},
+	{
+		"questionId": 84,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "STL Tutorial and Reference Guide: C++ Programming with the Standard Template Library (2nd Edition)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"musser, david r.",
+			"derge, gillmer j.",
+			"saini, atul"
+		]
+	},
+	{
+		"questionId": 85,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Effective Java Programming Language Guide",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"bloch, joshua"
+		]
+	},
+	{
+		"questionId": 86,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Functional Programming : Practice and Theory",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"maclennan, bruce j."
+		]
+	},
+	{
+		"questionId": 87,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Learning to Program with Alice",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"dann, wanda p.",
+			"cooper, stephen",
+			"pausch, randy"
+		]
+	},
+	{
+		"questionId": 88,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Core JavaServer Faces (Core Series)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"geary, david",
+			"horstmann, cay"
+		]
+	},
+	{
+		"questionId": 89,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Patterns of Problem Solving (2nd Edition)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"rubinstein, moshe f.",
+			"firstenberg, iris r."
+		]
+	},
+	{
+		"questionId": 90,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Tools for Structured &amp; Obj-Or Design (w/2 CDs)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"bohl, marilyn",
+			"rynn, maria"
+		]
+	},
+	{
+		"questionId": 91,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "A Practical Introduction to Data Structures and Algorithm Analysis",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"shaffer, clifford a."
+		]
+	},
+	{
+		"questionId": 92,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Data Modeling Essentials",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"simsion, graeme c.",
+			"witt, graham c."
+		]
+	},
+	{
+		"questionId": 93,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "On Time Technology Implementation: How to Achieve Implementation Success with Limited Time and Resources",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"lientz, bennet p.",
+			"rea, kathryn p."
+		]
+	},
+	{
+		"questionId": 94,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "JAVA DATA MINING STRATEGY STAN",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"hornick, mark f.",
+			"marcade, erik",
+			"venkayala, sunil"
+		]
+	},
+	{
+		"questionId": 95,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"eberly, david h."
+		]
+	},
+	{
+		"questionId": 96,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "SQL Programming Style",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"celko, joe"
+		]
+	},
+	{
+		"questionId": 97,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "XML in Data Management : Understanding and Applying Them Together (Morgan Kaufmann Series in Data Management Systems)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"aiken, peter",
+			"allen, m. david"
+		]
+	},
+	{
+		"questionId": 98,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Digital UNIX System Administrator's Guide (HP Technologies)",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"cheek, matthew"
+		]
+	},
+	{
+		"questionId": 99,
+		"queryGraph": {
+			"ent_ids": {
+				"0": "Tru64 Unix Troubleshooting Diagnosing &amp;",
+				"1": "who"
+			},
+			"rel_ids": {
+				"0": "author"
+			},
+			"triples": [
+				"0-0-1"
+			]
+		},
+		"answers": [
+			"moore, martin",
+			"hancock, steven"
+		]
+	}
+]

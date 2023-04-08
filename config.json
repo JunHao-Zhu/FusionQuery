@@ -1,0 +1,40 @@
+{
+  "DART": {
+    "init_veracity": 0.5,
+    "rec_prior": 0.8,
+    "sp_prior": 0.9,
+    "max_iters": 20
+  },
+  "CASE": {
+    "dimension": 10,
+    "alpha": 1.1,
+    "beta": 1.1,
+    "lr": 0.05,
+    "converge_rate": 1e-5,
+    "max_iters": 50
+  },
+  "LTM": {
+    "alpha_0": [50, 10],
+    "alpha_1": [10, 10],
+    "beta": [10, 10],
+    "max_iters": 50,
+    "burnin": 10,
+    "thin": 2
+  },
+  "TruthFinder": {
+    "init_trust": 0.9,
+    "gamma": 0.3,
+    "rho": 0.5,
+    "max_iters": 10,
+    "early_stop": 1e-3
+  },
+  "MajorityVoter": {},
+  "FusionQuery": {
+    "theta": 3e-5,
+    "init_trust": 0.95,
+    "history_size": 50,
+    "temperature": 0.5,
+    "max_iters": 5,
+    "usemeta": true
+  }
+}
