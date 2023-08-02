@@ -1,6 +1,6 @@
-# FusionQuery: An Efficient Framework for Conflict-Resolved Queries over Multi-sourced Heterogeneous Data
+# **FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data**
 
-FusionQuery, an efficient framework for conflict-resolved queries over multi-sourced heterogeneous data, 
+FusionQuery, an efficient on-demand fusion query framework, 
 which consists of the query stage and the fusion stage. which consists of the query stage 
 and the fusion stage. During the fusion stage, we develop an EM-style algorithm, which 
 iteratively updates data veracity and source trustworthiness; furthermore, we design an 
