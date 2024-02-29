@@ -59,14 +59,13 @@ class EMFusioner:
 
     def update_trustworthy(self, history_comp, cur_data_size):
         ## obtain set O_tau: {o_tau|Pr(o_tau) >= Pr(o)}
+        self.src_prob = np.stack([self.veracity] * self.source_num, axis=0)
         o_tau = self.src_prob[:, np.newaxis, :] >= self.veracity[:, np.newaxis]
         o_tau = np.transpose(o_tau, (1, 0, 2)) & self.sa_mask
         ## update Pr(d|o)
-        o_tau_size = o_tau.sum(axis=-1)
-        self.src_prob = np.where(o_tau, self.veracity, 1.)
-        self.src_prob = np.prod(self.src_prob, axis=-1).T
-        ratio = o_tau_size.T / cur_data_size
-        self.src_prob = history_comp + ratio * self.src_prob
+        self.src_prob = np.where(o_tau, self.veracity, 0.)
+        self.src_prob = np.sum(self.src_prob, axis=-1).T
+        self.src_prob = history_comp + self.src_prob / cur_data_size
         ## update Pr(d^t)
         vote = self.as_mask.sum(axis=0)
         weighted = self.gumbel_softmax(self.veracity, axis=None, temperature=self.tau, weight=vote)
@@ -86,13 +85,14 @@ class EMFusioner:
         self.veracity = src_prob_norm * np.log(o_d_prob * self.src_trust[:, np.newaxis] / self.src_prob)
         self.veracity = np.exp(self.veracity.sum(axis=0))
 
-    def update_threshold(self, threshold):
+    def update_threshold(self, threshold, cur_data_size):
         ## obtain set O_tau: {o_tau|Pr(o_tau) >= Pr(o)}
+        self.src_prob = np.stack([self.veracity] * self.source_num, axis=0)
         o_tau = self.src_prob[:, np.newaxis, :] >= self.veracity[:, np.newaxis]
         o_tau = np.transpose(o_tau, (1, 0, 2)) & self.sa_mask
         o_tau_size = o_tau.sum(axis=-1)
         ## gradient of Pr(D)
-        size = o_tau_size.T / (EMFusioner.his_data_size + o_tau_size.T)
+        size = o_tau_size.T / cur_data_size
         grad = self.sa_mask.sum(axis=-1) + (self.veracity * size).sum(axis=-1)
         ## threshold update
         sign = np.sign(self.src_trust - self.src_trust_his)
@@ -107,10 +107,5 @@ class EMFusioner:
         for its in range(self.iters):
             self.update_trustworthy(his_comp, cur_size)
             self.update_veracity()
-        if self.usemeta:
-            thres = self.update_threshold(threshold=kwargs["threshold"])
-            return thres
-        else:
-            self.src_trust_his = self.src_trust
-            EMFusioner.his_data_size += self.sa_mask.sum(axis=1, keepdims=True)
-            return kwargs["threshold"]
+        thres = self.update_threshold(kwargs["threshold"], cur_size)
+        return thres
