@@ -1,5 +1,5 @@
 import time
-from typing import Union
+from typing import Union, List
 import logging
 
 from query.graph import LineGraph
@@ -28,7 +28,7 @@ class FusionQuery:
         self.match_thresh = self.aggregator.iterate_fusion(threshold=self.match_thresh)
         return self.aggregator.ans_set, self.aggregator.veracity
 
-    def evaluate(self, qry_set:[LineGraph], timing=True):
+    def evaluate(self, qry_set:List[LineGraph], timing=True):
         for qid, qry_g in enumerate(qry_set):
             qry_start_t = time.time()
             qry_ans = self.query(qry_g)

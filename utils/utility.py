@@ -36,23 +36,32 @@ def query_search(data_file, data_graph, query_id, matcher: LineGraphQuerier, lm,
 
 
 def prepare_graph(data_file, data_name, types, lm, line_transform=True):
-    src_graphs = []
-    for type in types:
-        (sid, eid) = DATASET[data_name][type]
-        for src_id in tqdm(range(sid, eid), desc="loading sources"):
-            id2entity = os.path.join(data_file, "ent_ids_{}".format(src_id))
-            id2relation = os.path.join(data_file, "rel_ids_{}".format(src_id))
-            triples = os.path.join(data_file, "triples_{}".format(src_id))
+    cache_dir = os.path.join(data_file, "linegraph")
+    if os.path.exists(cache_dir):
+        src_graphs = load_graph(cache_dir, data_name, types)
+        return src_graphs
+    else:
+        src_graphs = []
+        data_file = os.path.join(data_file, "data2kg")
+        os.makedirs(cache_dir, exist_ok=True)
+        for type in types:
+            (sid, eid) = DATASET[data_name][type]
+            for src_id in tqdm(range(sid, eid), desc="loading sources"):
+                id2entity = os.path.join(data_file, "ent_ids_{}".format(src_id))
+                id2relation = os.path.join(data_file, "rel_ids_{}".format(src_id))
+                triples = os.path.join(data_file, "triples_{}".format(src_id))
 
-            graph_dict = {"entity_path": id2entity,
-                          "relation_path": id2relation,
-                          "triple_path": triples}
+                graph_dict = {"entity_path": id2entity,
+                            "relation_path": id2relation,
+                            "triple_path": triples}
 
-            graph = GraphSet(is_query=False, **graph_dict)
-            if line_transform:
-                graph = LineGraph(graph, lm=lm, is_query=False)
-            src_graphs.append(graph)
-    return src_graphs
+                graph = GraphSet(is_query=False, **graph_dict)
+                if line_transform:
+                    graph = LineGraph(graph, lm=lm, is_query=False)
+                src_graphs.append(graph)
+                with open(os.path.join(cache_dir, "source_graph_{}.pkl".format(src_id)), "wb") as g_f:
+                    pkl.dump(graph, g_f)
+        return src_graphs
 
 
 def prepare_query(data_file, qry_num, lm, line_transform=True):

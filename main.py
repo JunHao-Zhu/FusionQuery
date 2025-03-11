@@ -72,10 +72,12 @@ def main():
 
     logging.info("{:*^50}".format("[Data Preparation]"))
     lang_model = SentenceTransformer(lm_path).to(device)
-    src_g = prepare_graph(data_root + "/data2kg", data_name, types, lm=lang_model, line_transform=True)
+    src_g = prepare_graph(data_root, data_name, types, lm=lang_model, line_transform=True)
     src_num = len(src_g)
+    logging.info("The number of data sources: {}".format(src_num))
     logging.info("{:*^50}".format("[Query Preparation]"))
     qry_g = prepare_query(data_root, qry_num=qry_num, lm=lang_model)
+    logging.info("The number of queries: {}".format(qry_num))
     logging.info("{:*^50}".format("[END]"))
     fusion_model = load_fusion_model(fusion_model, src_num, config)
     pipeline = FusionQuery(aggregator=fusion_model,
