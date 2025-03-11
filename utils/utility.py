@@ -9,7 +9,9 @@ from fusion.fusion import *
 
 
 DATASET = {"movie": {"JSON": (1, 5), "KG": (5, 10), "CSV": (10, 14)},
-           "book": {"JSON": (1, 4), "CSV": (4, 7), "XML": (7, 11)}}
+           "book": {"JSON": (1, 4), "CSV": (4, 7), "XML": (7, 11)},
+           "flight": {"CSV": (1, 11), "JSON": (11, 21)},
+           "stock": {"CSV": (1, 11), "JSON": (11, 21)}}
 
 
 def set_random_seed(seed):

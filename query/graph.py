@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 
 
 class GraphSet:
-    indicator = ["where", "when", "who", "dummy node"]
+    indicator = ["what", "where", "when", "who", "dummy node"]
 
     def __init__(self, is_query=True, **kwargs):
         self._vertex_set = {}
@@ -150,8 +150,8 @@ class LineGraph:
                                           show_progress_bar=False,
                                           convert_to_tensor=True)
                 node_emb = F.normalize(node_emb, dim=-1).cpu()
-                self.s_emb.append(node_emb[0])
-                self.o_emb.append(node_emb[1])
+                self.s_emb.append(node_emb[0].numpy())
+                self.o_emb.append(node_emb[1].numpy())
                 self.tgt_nodes.append(None)
             self.node_idx[nid] = (n1, n2)
         torch.cuda.empty_cache()

@@ -10,8 +10,11 @@ from utils.utility import *
 
 
 def set_logger(name):
+    log_dir = "./logger"
+    if not os.path.exists(log_dir):
+        os.makedirs(log_dir, exist_ok=True)
     log_file = os.path.join('./logger', name)
-
+    
     logging.basicConfig(
         format='%(asctime)s %(levelname)-8s %(message)s',
         level=logging.INFO,
