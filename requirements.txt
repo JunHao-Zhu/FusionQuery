@@ -1,0 +1,52 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+chinesecalendar==1.9.1
+dgl==1.1.3+cu121
+faiss-gpu==1.7.2
+filelock==3.13.4
+fsspec==2024.3.1
+GDAL @ file:///croot/gdal-split_1704913248646/work/build/swig/python
+huggingface-hub==0.29.2
+idna==3.7
+Jinja2==3.1.3
+joblib==1.4.0
+MarkupSafe==2.1.5
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath==1.3.0
+networkx==3.2.1
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp39-cp39-linux_x86_64.whl#sha256=6094eeedd869502faa0fd0a8c5ad3a70c5779be06ddd1feb7627e5c212fac420
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu12==8.9.2.26
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.19.3
+nvidia-nvjitlink-cu12==12.4.127
+nvidia-nvtx-cu12==12.1.105
+packaging==24.0
+pillow==11.1.0
+psutil==5.9.8
+PyYAML==6.0.2
+regex==2024.11.6
+requests==2.31.0
+Rtree==1.2.0
+safetensors==0.5.3
+scikit-learn==1.4.2
+scipy==1.13.0
+sentence-transformers==3.4.1
+sympy==1.12
+threadpoolctl==3.4.0
+tokenizers==0.21.0
+torch==2.2.2
+torchdata==0.7.1
+tqdm==4.66.2
+transformers==4.49.0
+triton==2.2.0
+typing_extensions==4.11.0
+urllib3==2.2.1

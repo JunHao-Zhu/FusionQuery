@@ -4,12 +4,23 @@ Python implementation of FusionQuery in paper [FusionQuery: On-demand Fusion Que
  Heterogeneous Data](https://github.com/JunHao-Zhu/FusionQuery/blob/main/technical_report.pdf).
 
 ## Dependencies
- 
-* Python 3.8
-* sentence-transformers 2.2.2
+The code is tested on the environment as below. 
+
+* Python 3.8 or 3.9
+* sentence-transformers 2.2.2 or 3.4.1
 * faiss-gpu 1.7.2
-* numpy 1.23.1
-* pytorch 1.12.1
+* numpy 1.23.1 or 1.26.4
+* pytorch 1.12.1 or 2.2.2
+
+To run the code, create a python environment with conda first:
+```
+conda create -n your_env_name python=3.9
+conda activate your_env_name
+```
+Install required packages:
+```
+pip install -r requirements.txt
+```
 
 ## Datasets
 
